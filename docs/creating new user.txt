@@ -1,0 +1,4 @@
+while creating new user we are have to have unique sequence id
+for that we will have to create a sequene in data base.
+
+?@resolved  when we craete anew user the ids are not comming properly they are 0 but in db they are properlysolve the issue?/

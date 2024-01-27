@@ -1,0 +1,5 @@
+Before signup check if the user exist in db as we need to show proper error message.
+
+the secret key in jwt, must not be hard coded instead it must be fetched from a db table
+
+while creating the user the id is getting zero, modify it
